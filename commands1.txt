@@ -1,0 +1,61 @@
+p 1 2
+p 2 15
+p 14 16
+p 12 10
+p 8 7
+m m
+p 5 5
+m m
+p 4 5
+p 4 6
+p 4 7
+p 4 8
+p 4 6
+p 4 9
+m m
+m m
+m m
+p 10 15
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m m
+m f
