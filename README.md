@@ -1,9 +1,7 @@
-/**********************************************************
-* Project 1: Metro Simulator
+*** Project 1: Metro Simulator
 * Comp 15 Spring 2023
 * README
-* Author: Aman Shah, ashah35
-*********************************************************/
+* Author: Aman Shah, ashah35**
 
 Program Purpose:
 ---------------
