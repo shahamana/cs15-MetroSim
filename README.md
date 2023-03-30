@@ -5,6 +5,18 @@ Program Purpose:
 Creates a simulation of a metro line with stations and passengers that board 
 and depart the single train running on the line based on user commands.
 
+Compile/Run:
+-----------
+    Compile using: make MetroSim
+    Run using:     ./MetroSim stationsFile outputFile [commandsFile]
+
+Instructions:
+------------
+Use stations.txt as the stationsFile to simulate the Boston Green Line.
+Add passengers to the simulation with the command: p [boardingStation] [departingStation]
+Move the metro to the next station:                m m
+End the simulation:                                m f
+
 Acknowledgements: 
 ----------------
 TA's were super helpful with this project! And the design checkoff was super
@@ -17,7 +29,6 @@ overwriting it.
 
 Also used the C++ official documentation for std::list and std::vector to 
 understand how to use both data structures.
-
 
 Files: 
 -----
@@ -85,12 +96,6 @@ Makefile:
 
 README:
     This file, providing an overview of the program and any pertinent info.
-
-
-Compile/Run:
------------
-    Compile using: make MetroSim
-    Run using:     ./MetroSim stationsFile outputFile [commandsFile]
 
 
 Data Structures:
