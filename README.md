@@ -13,8 +13,11 @@ Compile/Run:
 Instructions:
 ------------
 Use stations.txt as the stationsFile to simulate the Boston Green Line.
+
 Add passengers to the simulation with the command: p [boardingStation] [departingStation]
+
 Move the metro to the next station:                m m
+
 End the simulation:                                m f
 
 Acknowledgements: 
